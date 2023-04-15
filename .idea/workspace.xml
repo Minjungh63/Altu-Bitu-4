@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="958b6d31-aab7-4d39-8adc-7a6762539f9e" name="Changes" comment="파일 확장자 수정">
-      <change afterPath="$PROJECT_DIR$/08_백트래킹/라이브 코딩/15649.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성기출/12100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성기출/13458.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_동적 계획법/라이브 코딩/12865.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_동적 계획법/라이브 코딩/2579.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.13458">
+  <component name="RunManager" selected="Python.12865">
     <configuration name="1158.kts" type="KotlinStandaloneScriptRunConfigurationType" nameIsGenerated="true">
       <module name="Altu-Bitu-4" />
       <option name="filePath" value="$PROJECT_DIR$/02_스택, 큐, 덱/필수/1158.kts" />
@@ -83,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1325" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12865" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Altu-Bitu-4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_DFS &amp; BFS/필수" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_동적 계획법/라이브 코딩" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_DFS &amp; BFS/필수/1325.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_동적 계획법/라이브 코딩/12865.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2615" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2579" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Altu-Bitu-4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_DFS &amp; BFS/필수" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_동적 계획법/라이브 코딩" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_DFS &amp; BFS/필수/2615.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_동적 계획법/라이브 코딩/2579.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12865" />
+        <item itemvalue="Python.2579" />
         <item itemvalue="Python.13458" />
         <item itemvalue="Python.12100" />
         <item itemvalue="Python.15649" />
-        <item itemvalue="Python.1325" />
-        <item itemvalue="Python.2615" />
       </list>
     </recent_temporary>
   </component>
@@ -210,5 +209,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="파일 확장자 수정" />
     <option name="LAST_COMMIT_MESSAGE" value="파일 확장자 수정" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/09_동적 계획법/라이브 코딩/2579.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
